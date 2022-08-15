@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://saudadez.github.io</id>
+    <id>https://saudadez.com</id>
     <title>Saudadez&#39;s blog</title>
     <subtitle>一个普通的Galgame资源站</subtitle>
-    <icon>https://saudadez.github.io/images/favicon.ico</icon>
-    <link href="https://saudadez.github.io" />
+    <icon>https://saudadez.com/images/favicon.ico</icon>
+    <link href="https://saudadez.com" />
     <author>
       <name>asdfghjl</name>
     </author>
@@ -12,9 +12,9 @@
     <category term="acg" />
     <category term="galgame" />
     <entry>
-        <id>https://saudadez.github.io/PC/ADV/2022/08/0cbc95b18e7d/</id>
+        <id>https://saudadez.com/PC/ADV/2022/08/PRIMAL%C3%97HEARTS-1-%E3%81%BE%EF%BD%9E%E3%81%BE%E3%82%8C%E3%81%87%E3%81%A9/</id>
         <title>PRIMAL×HEARTS 1 [ま～まれぇど]</title>
-        <link rel="alternate" href="https://saudadez.github.io/PC/ADV/2022/08/0cbc95b18e7d/"/>
+        <link rel="alternate" href="https://saudadez.com/PC/ADV/2022/08/PRIMAL%C3%97HEARTS-1-%E3%81%BE%EF%BD%9E%E3%81%BE%E3%82%8C%E3%81%87%E3%81%A9/"/>
         <content type="html">&lt;p&gt;「「呐，你要选哪边？」」&lt;/p&gt;
 &lt;p&gt;春天，那是邂逅的季节。&lt;br&gt;站在樱花树下，我对即将转入的新学园的生活感到期待不已。&lt;br&gt;没错，直到穿过校门的几分钟之前我都是这么想的——&lt;/p&gt;
 &lt;p&gt;「就决定是注重传统的月花会吧！」&lt;br&gt;「寻求革新的天道会才更加有趣哦♪」&lt;/p&gt;
@@ -32,21 +32,21 @@
 &lt;hr&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/asdfghjl7/gal_cover/main/cover/202208082055798.jpeg&#34;&gt;&lt;br&gt;EnGYdbaUkEtAlriWTRYQmI0B31RntlCqwwjpM9Vdnp_nhw?e&amp;#x3D;pfDQyi&lt;br&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/asdfghjl7/gal_cover/main/cover/202208082055799.jpeg&#34;&gt;&lt;br&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/asdfghjl7/gal_cover/main/cover/202208082055800.jpeg&#34;&gt;&lt;br&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/asdfghjl7/gal_cover/main/cover/202208082055801.jpeg&#34;&gt;&lt;br&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/asdfghjl7/gal_cover/main/cover/202208082055802.jpeg&#34;&gt;&lt;br&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/asdfghjl7/gal_cover/main/cover/202208082055803.jpeg&#34;&gt;&lt;br&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/asdfghjl7/gal_cover/main/cover/202208082055804.jpeg&#34;&gt;&lt;br&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/asdfghjl7/gal_cover/main/cover/202208082055805.jpeg&#34;&gt;&lt;/p&gt;
 </content>
-        <category term="PC" scheme="https://saudadez.github.io/categories/PC/" />
-        <category term="ADV" scheme="https://saudadez.github.io/categories/PC/ADV/" />
-        <category term="ADV" scheme="https://saudadez.github.io/tags/ADV/" />
-        <category term="PC" scheme="https://saudadez.github.io/tags/PC/" />
-        <category term="R18" scheme="https://saudadez.github.io/tags/R18/" />
-        <category term="ま～まれぇど" scheme="https://saudadez.github.io/tags/%E3%81%BE%EF%BD%9E%E3%81%BE%E3%82%8C%E3%81%87%E3%81%A9/" />
-        <category term="学园" scheme="https://saudadez.github.io/tags/%E5%AD%A6%E5%9B%AD/" />
-        <category term="汉化" scheme="https://saudadez.github.io/tags/%E6%B1%89%E5%8C%96/" />
-        <category term="Games" scheme="https://saudadez.github.io/tags/Games/" />
+        <category term="PC" scheme="https://saudadez.com/categories/PC/" />
+        <category term="ADV" scheme="https://saudadez.com/categories/PC/ADV/" />
+        <category term="ADV" scheme="https://saudadez.com/tags/ADV/" />
+        <category term="PC" scheme="https://saudadez.com/tags/PC/" />
+        <category term="R18" scheme="https://saudadez.com/tags/R18/" />
+        <category term="ま～まれぇど" scheme="https://saudadez.com/tags/%E3%81%BE%EF%BD%9E%E3%81%BE%E3%82%8C%E3%81%87%E3%81%A9/" />
+        <category term="学园" scheme="https://saudadez.com/tags/%E5%AD%A6%E5%9B%AD/" />
+        <category term="汉化" scheme="https://saudadez.com/tags/%E6%B1%89%E5%8C%96/" />
+        <category term="Games" scheme="https://saudadez.com/tags/Games/" />
         <updated>2022-08-09T01:51:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://saudadez.github.io/PC/ADV/2022/08/d28b7b0662c8/</id>
+        <id>https://saudadez.com/PC/ADV/2022/08/PRIMAL%C3%97HEARTS-2-%E3%81%BE%EF%BD%9E%E3%81%BE%E3%82%8C%E3%81%87%E3%81%A9/</id>
         <title>PRIMAL×HEARTS 2 [ま～まれぇど]</title>
-        <link rel="alternate" href="https://saudadez.github.io/PC/ADV/2022/08/d28b7b0662c8/"/>
+        <link rel="alternate" href="https://saudadez.com/PC/ADV/2022/08/PRIMAL%C3%97HEARTS-2-%E3%81%BE%EF%BD%9E%E3%81%BE%E3%82%8C%E3%81%87%E3%81%A9/"/>
         <content type="html">&lt;p&gt;故事简介：&lt;br&gt;「欢迎来到我们的学园！」&lt;/p&gt;
 &lt;p&gt;暑假结束，迎来了有文化祭和体育祭等秋天的活动等着的新学期。&lt;br&gt;因为姐姐的推荐而决定转入这里的我，胸中满是对新生活的期待。&lt;br&gt;没错，直到穿过校门的数分钟前为止——&lt;/p&gt;
 &lt;p&gt;「……加入月华会，成为朋友吧」&lt;br&gt;「来天道会，一起让学园更加热闹吧！」&lt;/p&gt;
@@ -66,21 +66,21 @@
 &lt;hr&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/asdfghjl7/gal_cover/main/cover/202208081800532.jpeg&#34;&gt;&lt;br&gt;EomOvn6XJ6xKhrLUmfDh3JMBORdPIszlzVwCcvUAEE2GMQ?e&amp;#x3D;aSdi91&lt;br&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/asdfghjl7/gal_cover/main/cover/202208081800534.jpeg&#34;&gt;&lt;br&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/asdfghjl7/gal_cover/main/cover/202208081800535.jpeg&#34;&gt;&lt;br&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/asdfghjl7/gal_cover/main/cover/202208081800536.jpeg&#34;&gt;&lt;/p&gt;
 </content>
-        <category term="PC" scheme="https://saudadez.github.io/categories/PC/" />
-        <category term="ADV" scheme="https://saudadez.github.io/categories/PC/ADV/" />
-        <category term="ADV" scheme="https://saudadez.github.io/tags/ADV/" />
-        <category term="PC" scheme="https://saudadez.github.io/tags/PC/" />
-        <category term="R18" scheme="https://saudadez.github.io/tags/R18/" />
-        <category term="ま～まれぇど" scheme="https://saudadez.github.io/tags/%E3%81%BE%EF%BD%9E%E3%81%BE%E3%82%8C%E3%81%87%E3%81%A9/" />
-        <category term="学园" scheme="https://saudadez.github.io/tags/%E5%AD%A6%E5%9B%AD/" />
-        <category term="汉化" scheme="https://saudadez.github.io/tags/%E6%B1%89%E5%8C%96/" />
-        <category term="Games" scheme="https://saudadez.github.io/tags/Games/" />
+        <category term="PC" scheme="https://saudadez.com/categories/PC/" />
+        <category term="ADV" scheme="https://saudadez.com/categories/PC/ADV/" />
+        <category term="ADV" scheme="https://saudadez.com/tags/ADV/" />
+        <category term="PC" scheme="https://saudadez.com/tags/PC/" />
+        <category term="R18" scheme="https://saudadez.com/tags/R18/" />
+        <category term="ま～まれぇど" scheme="https://saudadez.com/tags/%E3%81%BE%EF%BD%9E%E3%81%BE%E3%82%8C%E3%81%87%E3%81%A9/" />
+        <category term="学园" scheme="https://saudadez.com/tags/%E5%AD%A6%E5%9B%AD/" />
+        <category term="汉化" scheme="https://saudadez.com/tags/%E6%B1%89%E5%8C%96/" />
+        <category term="Games" scheme="https://saudadez.com/tags/Games/" />
         <updated>2022-08-08T22:54:03.000Z</updated>
     </entry>
     <entry>
-        <id>https://saudadez.github.io/uncategorized/2022/08/55132062338d/</id>
+        <id>https://saudadez.com/uncategorized/2022/08/hello-world/</id>
         <title>Hello World</title>
-        <link rel="alternate" href="https://saudadez.github.io/uncategorized/2022/08/55132062338d/"/>
+        <link rel="alternate" href="https://saudadez.com/uncategorized/2022/08/hello-world/"/>
         <content type="html">&lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;Quick-Start&#34;&gt;&lt;a href=&#34;#Quick-Start&#34; class=&#34;headerlink&#34; title=&#34;Quick Start&#34;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&#34;Create-a-new-post&#34;&gt;&lt;a href=&#34;#Create-a-new-post&#34; class=&#34;headerlink&#34; title=&#34;Create a new post&#34;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo new &lt;span class=&#34;string&#34;&gt;&amp;quot;My New Post&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
